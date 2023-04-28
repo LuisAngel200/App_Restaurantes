@@ -16,5 +16,22 @@ namespace App_Restaurante
         {
             InitializeComponent();
         }
+
+        private void AbrirFormularios (object formhija)
+        {
+            if (this.pnl_Contenedor.Controls.Count > 0)
+                this.pnl_Contenedor.Controls.RemoveAt(0);
+                Form fh = formhija as Form;
+                fh.TopLevel = false;
+                fh.Dock = DockStyle.Fill;
+                this.pnl_Contenedor.Controls.Add(fh);
+                this.pnl_Contenedor.Tag = fh;
+                fh.Show();
+        }
+
+        private void btn_facturacion_Click(object sender, EventArgs e)
+        {
+            AbrirFormularios(new frm_facturacion());
+        }
     }
 }
