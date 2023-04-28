@@ -1,6 +1,6 @@
 ﻿namespace App_Restaurante
 {
-    partial class Form1
+    partial class Menu
     {
         /// <summary>
         /// Variable del diseñador necesaria.
