@@ -63,9 +63,15 @@ namespace App_Restaurante.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap actualizar__1_ {
             get {
                 object obj = ResourceManager.GetObject("actualizar (1)", resourceCulture);
+=======
+        internal static System.Drawing.Bitmap electricity_bill {
+            get {
+                object obj = ResourceManager.GetObject("electricity-bill", resourceCulture);
+>>>>>>> e25f8827094f88b6493b8c7add722f121c934896
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +79,15 @@ namespace App_Restaurante.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap disquete {
             get {
                 object obj = ResourceManager.GetObject("disquete", resourceCulture);
+=======
+        internal static System.Drawing.Bitmap food_delivery {
+            get {
+                object obj = ResourceManager.GetObject("food-delivery", resourceCulture);
+>>>>>>> e25f8827094f88b6493b8c7add722f121c934896
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +95,15 @@ namespace App_Restaurante.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap lupa__1_ {
             get {
                 object obj = ResourceManager.GetObject("lupa (1)", resourceCulture);
+=======
+        internal static System.Drawing.Bitmap plates {
+            get {
+                object obj = ResourceManager.GetObject("plates", resourceCulture);
+>>>>>>> e25f8827094f88b6493b8c7add722f121c934896
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +111,35 @@ namespace App_Restaurante.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap registro {
             get {
                 object obj = ResourceManager.GetObject("registro", resourceCulture);
+=======
+        internal static System.Drawing.Bitmap plates1 {
+            get {
+                object obj = ResourceManager.GetObject("plates1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap restaurant {
+            get {
+                object obj = ResourceManager.GetObject("restaurant", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap restaurant1 {
+            get {
+                object obj = ResourceManager.GetObject("restaurant1", resourceCulture);
+>>>>>>> e25f8827094f88b6493b8c7add722f121c934896
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

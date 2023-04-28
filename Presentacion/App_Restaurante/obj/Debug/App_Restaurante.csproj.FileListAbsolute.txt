@@ -1,0 +1,12 @@
+C:\Users\J Carcamo Morales\Documents\GitHub\App_Restaurantes\Presentacion\App_Restaurante\bin\Debug\App_Restaurante.exe.config
+C:\Users\J Carcamo Morales\Documents\GitHub\App_Restaurantes\Presentacion\App_Restaurante\bin\Debug\App_Restaurante.exe
+C:\Users\J Carcamo Morales\Documents\GitHub\App_Restaurantes\Presentacion\App_Restaurante\bin\Debug\App_Restaurante.pdb
+C:\Users\J Carcamo Morales\Documents\GitHub\App_Restaurantes\Presentacion\App_Restaurante\obj\Debug\App_Restaurante.csproj.AssemblyReference.cache
+C:\Users\J Carcamo Morales\Documents\GitHub\App_Restaurantes\Presentacion\App_Restaurante\obj\Debug\App_Restaurante.csproj.SuggestedBindingRedirects.cache
+C:\Users\J Carcamo Morales\Documents\GitHub\App_Restaurantes\Presentacion\App_Restaurante\obj\Debug\App_Restaurante.frm_presentacion.resources
+C:\Users\J Carcamo Morales\Documents\GitHub\App_Restaurantes\Presentacion\App_Restaurante\obj\Debug\App_Restaurante.Properties.Resources.resources
+C:\Users\J Carcamo Morales\Documents\GitHub\App_Restaurantes\Presentacion\App_Restaurante\obj\Debug\App_Restaurante.csproj.GenerateResource.cache
+C:\Users\J Carcamo Morales\Documents\GitHub\App_Restaurantes\Presentacion\App_Restaurante\obj\Debug\App_Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\J Carcamo Morales\Documents\GitHub\App_Restaurantes\Presentacion\App_Restaurante\obj\Debug\App_Restaurante.exe
+C:\Users\J Carcamo Morales\Documents\GitHub\App_Restaurantes\Presentacion\App_Restaurante\obj\Debug\App_Restaurante.pdb
+C:\Users\J Carcamo Morales\Documents\GitHub\App_Restaurantes\Presentacion\App_Restaurante\obj\Debug\App_Restaurante.frm_facturacion.resources
