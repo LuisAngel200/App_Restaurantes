@@ -63,6 +63,26 @@ namespace App_Restaurante.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap electricity_bill {
+            get {
+                object obj = ResourceManager.GetObject("electricity-bill", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap food_delivery {
+            get {
+                object obj = ResourceManager.GetObject("food-delivery", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap plates {
             get {
                 object obj = ResourceManager.GetObject("plates", resourceCulture);
@@ -76,6 +96,26 @@ namespace App_Restaurante.Properties {
         internal static System.Drawing.Bitmap plates1 {
             get {
                 object obj = ResourceManager.GetObject("plates1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap restaurant {
+            get {
+                object obj = ResourceManager.GetObject("restaurant", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap restaurant1 {
+            get {
+                object obj = ResourceManager.GetObject("restaurant1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
